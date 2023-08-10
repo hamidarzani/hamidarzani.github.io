@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. Student in Operations Management and Statistics at [Rotman School of Management](https://www.rotman.utoronto.ca/), University of Toronto. My research interests lie in the span of queueing theory, data-driven algorithms, and optimizaiton with focuses on social operations management and healthcare applications.
+I am a second year Ph.D. student in Operations Management and Statistics at [Rotman School of Management](https://www.rotman.utoronto.ca/), University of Toronto. My research interests lie in the span of queueing theory, data-driven algorithms, and optimizaiton with focuses on social operations management and healthcare applications.
 
 ## Education
 * Ph.D. in Operations Management and Statistics, University of Toronto, 2027 (expected).
