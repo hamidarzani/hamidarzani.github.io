@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 redirect_from:
-  - /talks.html
+  - /talks
 ---
 
 ### On Social Fairness in Queues
