@@ -14,7 +14,7 @@ redirect_from:
 * INFORMS Healthcare Conference, Toronto, July 2023.
 * INFORMS MSOM Healthcare SIG Conference, Montreal, June 2023.
 * CORS, Montreal, May 2023.
-* Trans-Atlantic Doctoral Conference, London School of Business, May 2023.
+* Trans-Atlantic Doctoral Conference, London Business School (LBS), May 2023.
 * ORS/INFORMS International Conference, Vancouver, June 2022.
 
 ### Mechanisms Driving Service Duration: A Large-Scale Empirical Analysis
