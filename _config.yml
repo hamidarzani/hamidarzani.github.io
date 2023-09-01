@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hamid Arzani"
   avatar           : "profile.png"
-  bio              : "PhD Student at Rotman School of Management"
+  bio              : "Ph.D. Student in Operations Management and Statistics"
   location         : "Toronto, ON"
-  employer         :
+  employer         : "Rotman School of Management, University of Toronto"
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "hamid.arzani@rotman.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
