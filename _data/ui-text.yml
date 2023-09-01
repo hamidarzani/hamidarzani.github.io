@@ -24,7 +24,7 @@ en: &DEFAULT_EN
   follow_label               : "Follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
-  website_label              : "Rotman Page"
+  website_label              : "Rotman page"
   email_label                : "hamid.arzani at rotman.utoronto.ca"
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
