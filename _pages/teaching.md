@@ -9,10 +9,11 @@ redirect_from:
 
 
 ### Teaching Assistant at University of Toronto
-* RSM 2408: Modeling and Optimization for Decision Making, Winter/Summer 2023.
-* RSM 270: Operations Management, Fall 2022, Winter 2023.
+* RSM 8414: Tools for Probabilistic Models and Prescriptive Analytics, Fall 2023.
+* RSM 2408: Modeling and Optimization for Decision Making, Winter/Summer/Fall 2023.
+* RSM 270: Operations Management, Fall 2022,23, Winter 2023.
 * MIE 360: Systems Modelling and Simulation, Fall 2022.
-* MIE 258: Engineering Economics and Accounting, Fall 2022.
+* MIE 258: Engineering Economics and Accounting, Fall 2022,23.
 
 
 ### Teaching Assistant at University of Waterloo

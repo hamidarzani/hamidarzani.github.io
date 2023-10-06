@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### On Social Fairness in Queues
-* CanQueue, Niagara-on-the-Lake, August 2023 (Scheduled)
+* CanQueue, Niagara-on-the-Lake, August 2023.
 
 ### Multi-Class Advance Patient Scheduling: A Data-Driven Robust Approach
 * INFORMS Healthcare Conference, Toronto, July 2023.
