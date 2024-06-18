@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to my page! I am a second year Ph.D. student in Operations Management and Statistics at [Rotman School of Management](https://www.rotman.utoronto.ca/), University of Toronto. My research interests lie in the span of queueing theory, game theory, data-driven algorithms, and optimization, with a particular emphasis on their applications in healthcare and socially responsible operations management.
+Hi! I am a second year Ph.D. student in Operations Management and Statistics at [Rotman School of Management](https://www.rotman.utoronto.ca/), University of Toronto. My research interests lie in the span of queueing theory, game theory, data-driven algorithms, and optimization, with a particular emphasis on their applications in healthcare and service operations management.
 
 ## Education
 * Ph.D. in Operations Management and Statistics, University of Toronto, 2027 (expected).
