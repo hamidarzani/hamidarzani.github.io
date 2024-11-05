@@ -9,11 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I am a second year Ph.D. student in Operations Management and Statistics at [Rotman School of Management](https://www.rotman.utoronto.ca/), University of Toronto. My research interests lie in the span of queueing theory, game theory, data-driven algorithms, and optimization, with a particular emphasis on their applications in healthcare and service operations management.
+Hi! I am a third-year Ph.D. candidate in Operations Management and Statistics at the [Rotman School of Management](https://www.rotman.utoronto.ca/), University of Toronto.  Before my doctoral studies, I obtained a Master’s degree in Management Sciences from the University of Waterloo and completed dual Bachelor’s degrees in Electrical Engineering and Industrial Engineering from Sharif University of Technology.
 
-## Education
-* Ph.D. in Operations Management and Statistics, University of Toronto, 2027 (expected).
-* M.A.Sc. in Management Sciences, University of Waterloo, 2022.
-* B.Sc. in Industrial Engineering, Sharif University of Technology, 2019.
-* B.Sc. in Electrical Engineering, Sharif University of Technology, 2019.
 
+My research aims to advance decision-making and resource allocation in healthcare and service operations management. Using methodologies such as data-driven and robust optimization, game theory, and queueing theory,  I develop frameworks that address the challenges of uncertainty, demand variability, and capacity limitations. By integrating these tools, my work seeks to enhance operational effectiveness, resilience, and promote fairness and equity across diverse service systems, particularly within healthcare and other public services.
