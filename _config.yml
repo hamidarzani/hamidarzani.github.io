@@ -11,7 +11,7 @@ title                    : "Hamid Arzani"
 title_separator          : "-"
 name                     : &name "Hamid Arzani"
 description              : &description "PhD Candidate at Rotman School of Management"
-url                      : https://hamidarzani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hamidarzani.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hamidarzani/hamidarzani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hamid Arzani"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student in Operations Management and Statistics"
+  bio              : "Ph.D. Candidate in Operations Management and Statistics"
   email            : "hamid.arzani@rotman.utoronto.ca"
   location         :
   employer         :
