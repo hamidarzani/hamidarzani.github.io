@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-### Service
-
 - *Rotman Grouping Optimization Administrator*, MBA and MMA, University of Toronto, 2024
 - *Interviewer*, Rotman MMA Program Admission, University of Toronto, 2023
 - *Rotman Representative at Graduate Student Unio*, University of Toronto, 2023-2024
