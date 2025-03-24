@@ -9,13 +9,13 @@ redirect_from:
 
 ### Papers
 
-[1] <a href="https://papers.ssrn.com/abstract=5190502" target="_blank">
-<strong>Equity vs. Efficiency in Multi-Class Service Systems</strong>
+[1] <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5190502" target="_blank">
+<strong>Equity vs. Efficiency in Service Systems with Differentiated Demand</strong>
 </a>, with Hossein Abouee-Mehrizi and Ming Hu. *Under Review*.
 
 [2] **From Urban Centers to Rural Areas: The Trade-offs Between Efficiency and Fairness**, with Hossein Abouee-Mehrizi, Saeed Ghadimi, and Mina Torabi Milani. *Under Revision*.
 
-[3] **Reducing Diagnostic Imaging Wait Times: Lessons from a Large-Scale Empirical Analysis**, with Hossein Abouee-Mehrizi, Mohammad Eshraghi, and Benjamin Ravenscroft. *Revised & to be submitted*.
+[3] **Reducing Diagnostic Imaging Wait Times: Lessons from a Large-Scale Empirical Analysis**, with Hossein Abouee-Mehrizi, Mohammad Eshraghi, and Benjamin Ravenscroft. *Under Review*.
 - Runner-up, CORS Best Student Paper Competition, Open Category, 2024.
 
 [4] **Multi-Class Advance Patient Scheduling: A Data-driven Robust Approach**, with Hossein Abouee-Mehrizi and Saeed Ghadimi. *To be submitted*.
