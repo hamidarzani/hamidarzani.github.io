@@ -9,7 +9,9 @@ redirect_from:
 
 ### Papers
 
-[1] **Equity vs. Efficiency in Multi-Class Service Systems**, with Hossein Abouee-Mehrizi and Ming Hu. *To be submitted*.
+[1] <a href="https://papers.ssrn.com/abstract=5190502" target="_blank">
+<strong>Equity vs. Efficiency in Multi-Class Service Systems</strong>
+</a>, with Hossein Abouee-Mehrizi and Ming Hu. *Under Review*.
 
 [2] **From Urban Centers to Rural Areas: The Trade-offs Between Efficiency and Fairness**, with Hossein Abouee-Mehrizi, Saeed Ghadimi, and Mina Torabi Milani. *Under Revision*.
 
