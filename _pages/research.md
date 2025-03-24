@@ -11,12 +11,12 @@ redirect_from:
 
 [1] **Equity vs. Efficiency in Multi-Class Service Systems**, with Hossein Abouee-Mehrizi and Ming Hu. *To be submitted*.
 
-[2] **From Urban Centers to Rural Areas: The Trade-offs Between Efficiency and Fairness**, with Hossein Abouee-Mehrizi, Saeed Ghadimi, and Mina Torabi Milani. *Under Review*.
+[2] **From Urban Centers to Rural Areas: The Trade-offs Between Efficiency and Fairness**, with Hossein Abouee-Mehrizi, Saeed Ghadimi, and Mina Torabi Milani. *Under Revision*.
 
-[3] **Reducing Diagnostic Imaging Wait Times: Lessons from a Large-Scale Empirical Analysis**, with Hossein Abouee-Mehrizi, Mohammad Eshraghi, and Benjamin Ravenscroft. *Working Paper*.
+[3] **Reducing Diagnostic Imaging Wait Times: Lessons from a Large-Scale Empirical Analysis**, with Hossein Abouee-Mehrizi, Mohammad Eshraghi, and Benjamin Ravenscroft. *Revised & to be submitted*.
 - Runner-up, CORS Best Student Paper Competition, Open Category, 2024.
 
-[4] **Multi-Class Advance Patient Scheduling: A Data-driven Robust Approach**, with Hossein Abouee-Mehrizi and Saeed Ghadimi. *Working Paper*.
+[4] **Multi-Class Advance Patient Scheduling: A Data-driven Robust Approach**, with Hossein Abouee-Mehrizi and Saeed Ghadimi. *To be submitted*.
 - Accepted to MSOM Healthcare SIG, 2023.
 - Finalist, CORS Best Student Paper Competition, Open Category, 2023.
 
