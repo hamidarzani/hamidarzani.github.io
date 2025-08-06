@@ -7,53 +7,59 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="main">
-    <h1>Hamid Arzani</h1>
+  <nav class="navbar">
+    <div class="navbar-title">Hamid Arzani</div>
+    <div class="navbar-links">
+      <a href="#about">About Me</a>
+      <a href="#research">Research</a>
+      <a href="#publications">Publications</a>
+      <a href="#teaching">Teaching</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
 
+  <div class="profile-section" id="about">
+    <img src="hamid_photo.png" alt="Hamid Arzani" class="profile-pic" />
+    <div class="profile-text">
+      <h1>Hamid Arzani</h1>
+      <p>Ph.D. Candidate in Operations Management and Statistics<br>
+         Rotman School of Management, University of Toronto</p>
+      <div class="profile-contact">
+        <p><strong>Email:</strong> hamid.arzani@utoronto.ca</p>
+        <p><strong>Office:</strong> RT XXX, Rotman School of Management</p>
+        <p><a href="#">Download CV (PDF)</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="content-section" id="research">
+    <h2>Research Overview</h2>
     <p>
-      Ph.D. Candidate in Operations Management and Statistics<br>
-      Rotman School of Management, University of Toronto
+      My research focuses on service system design, fairness, and customer interaction in AI-powered service environments.
+      I develop decision-making models that blend queueing theory, learning, and optimization to address challenges in healthcare and beyond.
     </p>
+  </div>
 
-    <p>
-      Email: hamid.arzani@utoronto.ca<br>
-      <!-- Uncomment if you have a CV to link -->
-      <!-- <a href="cv.pdf" target="_blank">Curriculum Vitae (PDF)</a> -->
-    </p>
-
-    <hr>
-
-    <h2>Research Interests</h2>
-    <p>
-      Service operations, fairness, queueing theory, AI for healthcare, optimization, learning in service systems, and customer interaction modeling.
-    </p>
-
+  <div class="content-section" id="publications">
     <h2>Publications</h2>
     <ul>
-      <li>
-        Arzani, H. & Coauthor (2025). <i>Title of Paper</i>, Journal/Conference Name.
-      </li>
-      <li>
-        Arzani, H. (2024). <i>Another Paper Title</i>, Working Paper.
-      </li>
+      <li>Arzani, H. & Coauthor (2025). <i>Title of Paper</i>, Journal/Conference Name.</li>
+      <li>Arzani, H. (2024). <i>Another Paper Title</i>, Working Paper.</li>
     </ul>
+  </div>
 
+  <div class="content-section" id="teaching">
     <h2>Teaching</h2>
     <ul>
       <li>RSM1282 – Operations Management (Winter 2025)</li>
       <li>RSM1240 – Engineering Economics (Winter 2025)</li>
     </ul>
+  </div>
 
-    <h2>Service and Leadership</h2>
-    <ul>
-      <li>President, University of Toronto Operations Research Group (UTORG)</li>
-      <li>Student Councillor, Canadian Operational Research Society (CORS)</li>
-    </ul>
-
-    <h2>Other</h2>
-    <p>
-      I occasionally mock myself in Persian and think spring is the best season. I also enjoy analyzing large-scale healthcare systems and playing IGI.
-    </p>
+  <div class="content-section" id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:hamid.arzani@utoronto.ca">hamid.arzani@utoronto.ca</a></p>
+    <p>Twitter / Google Scholar links here (optional)</p>
   </div>
 </body>
 </html>
