@@ -9,7 +9,7 @@ body {
   font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   background-color: #f5f5f5;
   color: #333;
-  line-height: 1.6;
+  line-height: 1.75; /* Increased for better readability */
   padding-bottom: 40px;
 }
 
@@ -52,6 +52,7 @@ body {
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  gap: 30px; /* Added for spacing between img and text */
 }
 
 .profile-pic {
@@ -59,7 +60,6 @@ body {
   height: auto;
   border-radius: 10px;
   object-fit: cover;
-  margin-right: 30px;
   margin-bottom: 20px;
 }
 
@@ -74,8 +74,10 @@ body {
   margin-bottom: 10px;
 }
 
-.profile-contact p {
-  margin-top: 10px;
+.profile-contact p,
+.profile-contact a {
+  margin: 5px 0; /* Tighter vertical spacing */
+  display: block;
 }
 
 /* Content sections */
@@ -83,6 +85,7 @@ body {
   max-width: 900px;
   margin: 40px auto 0 auto;
   padding: 0 20px;
+  font-size: 1.05rem;
 }
 
 .content-section h2 {
@@ -90,7 +93,11 @@ body {
   color: #2c3e50;
   border-bottom: 1px solid #ccc;
   padding-bottom: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+.content-section p {
+  margin-bottom: 20px;
 }
 
 .content-section ul {
@@ -99,9 +106,10 @@ body {
 }
 
 .content-section li {
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
+/* Links */
 a {
   color: #0077cc;
   text-decoration: none;
